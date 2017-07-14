@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color: blue 600 -->
+    <color name="colorPrimary">#1E88E5</color>
+
+    <!-- Primary color dark: blue 900 -->
+    <color name="colorPrimaryDark">#0D47A1</color>
+
+    <!-- Secondary color: blue 300 -->
+    <color name="colorSecondary">#64B5F6</color>
+
+    <!-- Accent color: A200 -->
+    <color name="colorAccent">#0D47A1</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>
